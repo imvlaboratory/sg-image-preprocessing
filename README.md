@@ -1,11 +1,20 @@
 # IMPORTANT!!!!!!
 
-Sebelum belajar modul ini kalian harus melakukan hal ini yakk
+Sebelum belajar modul ini kalian harus melakukan hal ini yakk!!
+
+Install Depedencies yang diperlukan dengan cara membuka TERMINAL dan mengetik command berikut:
     
-1. Install OpenCV dengan cara membuka TERMINAL dan mengetik command berikut:
+1. Install OpenCV
 
         pip install opencv-python
+   
+2. Install numpy
 
+        pip install numpy
+
+3. Install Matplotlib
+
+       pip install matplotlib
    
  # Pendahuluan Image Preprocessing
 1. Apa itu Image Preprocessing?
